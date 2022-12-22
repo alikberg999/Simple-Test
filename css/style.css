@@ -2,6 +2,9 @@ body{
   background:black;
 }
 img{
-  height:90%;
+  height:60%;
   width:60%;
+}
+h1{
+  color:#ffffff;
 }
