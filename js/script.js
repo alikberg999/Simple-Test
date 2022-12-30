@@ -1,3 +1,5 @@
+//clicer
+alert("clicer")
 let x = 11
 let y = 22
 console.log(x);
