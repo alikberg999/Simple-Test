@@ -1,8 +1,18 @@
 body{
   background:black;
 }
+<<<<<<< HEAD
 h1{
   color:#1a1585f1;
+=======
+
+h1{
+  color:#00108ac1;
+
+h1 {
+  color: white;
+
+>>>>>>> 12753e3cd4bf8961a2fd4281daf7e82977b33266
 }
 h2{
   color:red;
