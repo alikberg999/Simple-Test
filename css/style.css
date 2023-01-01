@@ -1,17 +1,24 @@
-body{
-  background:black;
+body {
+  background: black;
 }
+
 h1{
   color:#00108ac1;
+
+h1 {
+  color: white;
+
 }
-h2{
-  color:red;
+h2 {
+  color: red;
 }
-p{
-  color:white;
+p {
+  color: white;
 }
-button{
-  height:55px;
-  width:60px;
-  color:blue;
+button {
+  background: #228ca6;
+  height: 55px;
+  width: 60px;
+  color: blue;
+  border-color:red;
 }
