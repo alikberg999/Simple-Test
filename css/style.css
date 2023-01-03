@@ -1,21 +1,14 @@
 body{
   background:black;
 }
-h1{
-  color:#1a1585f1;
-
+button{
+  height:50px;
+  width:50px;
+  color:blue;
 }
-
-
-
-h2{
-  color:red;
+h1{
+  color:white;
 }
 p{
   color:white;
-}
-button{
-  height:55px;
-  width:60px;
-  color:blue;
 }
