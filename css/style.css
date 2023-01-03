@@ -6,12 +6,9 @@ button{
   width:50px;
   color:blue;
 }
-header{
+h1{
   color:white;
 }
-main{
-  color:white;
-}
-footer{
+p{
   color:white;
 }
