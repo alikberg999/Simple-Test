@@ -1,11 +1,17 @@
 body{
   background:black;
 }
-button{
-  height:50px;
-  width:50px;
-  color:blue;
+.button1{
+  border-color:red;
+  background-color:#750000;
+  border-radius:20px;
+  height:60px;
+  width:130px;
+  color:silver;
 }
 h1{
   color:white;
+  background:red;
+  background-size:12;
+  border-radius:8px;
 }
