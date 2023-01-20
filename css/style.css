@@ -9,6 +9,14 @@ body{
   width:130px;
   color:silver;
 }
+.button2{
+  border-color:red;
+  background-color:#750000;
+  border-radius:20px;
+  height:60px;
+  width:130px;
+  color:silver;
+}
 h1{
   color:white;
   background:red;
