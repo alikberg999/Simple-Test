@@ -23,3 +23,7 @@ h1{
   background-size:12;
   border-radius:8px;
 }
+input{
+  color:red;
+  background-color:blue;
+}
